@@ -14,7 +14,7 @@ publish-tag: build publish
 build:
 	$(DOCKER) build --build-arg RUST_VERSION=$(RUST_VERSION) -t $(REPO):${TAG} .
 
-test:
+test: build
 	@tests/test.sh
 
 debug: build
