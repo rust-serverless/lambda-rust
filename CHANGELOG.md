@@ -1,9 +1,14 @@
+<!--markdownlint-disable MD025 -->
+# 0.4.0-rust-1.61.0
+
+* Upgrade to Rust [`1.61.0`](https://blog.rust-lang.org/2022/05/19/Rust-1.61.0.html)
+
 # 0.4.0-rust-1.59.0
- 
+
 * Upgrade to Rust [`1.59.0`](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html)
 
 # 0.4.0-rust-1.58.1
- 
+
 * Upgrade to Rust [`1.58.1`](https://blog.rust-lang.org/2022/01/20/Rust-1.58.1.html)
 
 # 0.4.0-rust-1.58.0
@@ -70,6 +75,7 @@ being created and `package` hook from running.
 # 0.2.7-rust-1.43.1
 
 * Upgrade to Rust [`1.43.1`](https://blog.rust-lang.org/2020/05/07/Rust.1.43.1.html)
+
 # 0.2.7-rust-1.43.0
 
 * Upgrade to Rust [`1.43.0`](https://blog.rust-lang.org/2020/04/23/Rust-1.43.0.html)
@@ -151,7 +157,7 @@ being created and `package` hook from running.
 * Handle case where Cargo bin is explicitly named `bootstrap`
 * Introduce integration testing
 
-#  0.2.0-rust-1.32.0
+# 0.2.0-rust-1.32.0
 
 * Upgrade to Rust [`1.32.0`](https://blog.rust-lang.org/2019/01/17/Rust-1.32.0.html)
 
