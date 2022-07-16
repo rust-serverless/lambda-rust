@@ -1,6 +1,6 @@
 DOCKER ?= docker
 INPUT_RELEASE_VERSION ?= 0.4.0
-RUST_VERSION ?= 1.61.0
+RUST_VERSION ?= 1.62.0
 REPO ?= rustserverless/lambda-rust
 TAG ?= latest
 
