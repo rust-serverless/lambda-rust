@@ -1,4 +1,9 @@
 <!--markdownlint-disable MD025 -->
+# 0.4.0-rust-1.70.0
+
+* Upgrade to Rust [`1.70.0`](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
+
+
 # 0.4.0-rust-1.65.0
 
 * Upgrade to Rust [`1.65.0`](https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html)
